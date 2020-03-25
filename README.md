@@ -1,2 +1,5 @@
 # Docker in docker with python
-docker-docker-python
+Docker image with:
+
+- Docker 19.03 to run docker in docker
+- Python 3.8.2 
